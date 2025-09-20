@@ -7,14 +7,6 @@ This repository contains the analysis of the relationship between Bitcoin market
 
 The project is organized into the following directory structure:
 
-# Analysis of Crypto Market Sentiment and Trading Behavior
-
-This repository contains the analysis of the relationship between Bitcoin market sentiment (Fear vs. Greed) and trading behavior using historical data from the Hyperliquid exchange. The project aims to uncover correlations and potential hidden signals that can inform smarter trading strategies.
-
-## 📁 Project Structure
-
-The project is organized into the following directory structure, adhering to the requested format:
-
 ds_ravina_karmankar/
 ├── notebook_1.ipynb # All analysis.
 ├── csv_files/ # Contains the raw data files.
